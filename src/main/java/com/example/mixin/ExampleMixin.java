@@ -15,4 +15,6 @@ private void injectOptimizationsOnWorldLoad(CallbackInfo info) {
 
     // Example: Adjust chunk loading behavior
     // ((ChunkManager) this.chunkManager).setChunkLoadDistance(4); // Adjust chunk load distance
+    
+   }
 }
